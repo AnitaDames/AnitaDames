@@ -2,7 +2,7 @@
 
 I'm Anita from Jamaica, who has been teaching for over thirteen (13) years. I have been studying Software Engineering since 2020 to present. I enjoy designing websites and review codes.
 
-
+[![Anita's github stats](https://github-readme-stats.vercel.app/api?username=anitadames)](https://github.com/anitadames/github-readme-stats)
 
 
 
