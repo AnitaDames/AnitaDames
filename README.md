@@ -1,8 +1,19 @@
 ### Nice to meet you!👋
 
-I'm Anita from Jamaica, who has been teaching for over thirteen (13) years. I have been studying Software Engineering since 2020 to present. I enjoy designing websites and reviewing codes.
+I'm Anita from Jamaica, who has been teaching for over thirteen (13) years. 
+I have been studying Software Engineering since 2020 to present. I enjoy designing websites and reviewing codes.
+
+- 🔭 I’m currently changing career from Teaching to Tech
+- 🌱 I’m currently studying at Codecademy and Udemy
+- 👯 Looking forward to becoming a Code Reviewer
+
+## Skills and Experience
+* HTML
+* CSS
+* JAVASCRIPT
 
 [![Anita's github stats](https://github-readme-stats.vercel.app/api?username=anitadames)](https://github.com/anitadames/github-readme-stats)
+
 
 
 
