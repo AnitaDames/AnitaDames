@@ -1,5 +1,11 @@
 ### Nice to meet you!👋
 
+I'm Anita from Jamaica, who has been teaching for over thirteen (13) years. I have been studying Software Engineering since 2020 to present. I enjoy designing websites and review codes.
+
+
+
+
+
 <!--
 **AnitaDames/AnitaDames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
