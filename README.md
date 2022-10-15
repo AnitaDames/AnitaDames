@@ -5,8 +5,7 @@ I have been studying Software Engineering since 2020 to present. I enjoy designi
 
 - 🔭 I’m currently changing career from Teaching to Tech
 - 🌱 I’m currently studying at Codecademy and Udemy
-- 👯 Looking forward to becoming a Code Reviewer
-
+- 👯 Looking forward to becoming a Full-Stack Web Developer
 ## Skills and Experience
 * HTML
 * CSS
